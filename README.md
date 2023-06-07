@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Thandesnr
-- 👀 I’m interested in improving my coding skills
-- 🌱 I’m currently learning javascript and front end development libraries
-- 💞️ I’m looking to collaborate on react projects
+- 💞️ I’m looking to collaborate on data science projects
 - 📫 How to reach me erictthand@gmail.com
 
 <!---
